@@ -1,2 +1,2 @@
 # Flight-delay
- data science proyect to predict the flihgt's delay
+ data science proyect to to predict flight delays
